@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
+    display: none;
 }
 nav ul {
     background-color: #0056b3;
